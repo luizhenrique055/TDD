@@ -1,0 +1,20 @@
+Relatorio da semana 1:
+
+1. Criação da classe de teste CamelCaseTest.java
+2. Criação primeiro teste com entrada > nome eperando “nome”
+3. Criação da classe CamelCase
+4. Criação do metodo converter
+5. Metodo converter pega a variavel e retorna.
+6. Criação teste com entrada maiuscula
+7. Atualização do metodo para fazer o teste anterior funcionar
+8. Criação de teste para a inicial minuscula e separação maiuscula
+9. Atualização do metodo para fazer o teste anterior funcionar
+10. Criação de teste para inicial maiuscula e separação maiuscula
+11. Melhoria no codigo
+12. Criação de teste para CPF
+13. Criação do metodo para aceitar CPF
+14. Melhoria no codigo para aceitar todas palavras compostas maiuscula
+15. Teste com palavra e numero
+16. Teste com operações invalidas
+17. Melhoria no codigo
+
